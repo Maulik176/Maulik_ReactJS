@@ -1,0 +1,26 @@
+.sidebar {
+  flex: 1;
+  background-color: #a8dadc;
+  display: flex;
+  padding: 1rem;
+  flex-direction: column;
+  gap: 1rem;
+  height: 90vh;
+}
+
+.sidebar button {
+  font-size: 20px;
+  padding: 10px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  gap: 1rem;
+  background-color: #1ec8ce;
+  border: none;
+  text-decoration: none;
+}
+
+.boom {
+  text-decoration: none;
+  justify-content: center;
+}

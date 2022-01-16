@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body {
+  margin: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+}
+
+.mainContent {
+  flex: 4;
+  padding: 1rem;
+  color: white;
+  background-color: #457b9d;
+}
+
+.viscount {
+  background-color: yellow;
+}
